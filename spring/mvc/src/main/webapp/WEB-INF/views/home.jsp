@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="todo.css">
   </head>
   <body>
-  <h1>
-	Hello world!  
+  <h1 style="background-color: #f00">
+	spring mvc 
 </h1>
     <h2>Todo</h2>
     <div ng-controller="TodoListController as todoList">
